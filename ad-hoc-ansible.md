@@ -1,0 +1,1 @@
+ansible loaclhost -m ping
